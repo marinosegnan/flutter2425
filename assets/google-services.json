@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277732434869",
+    "project_id": "flutterdcps",
+    "storage_bucket": "flutterdcps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277732434869:android:f1ee361b22aefdf057affc",
+        "android_client_info": {
+          "package_name": "com.unito.dcps.fbauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeiPJpGN8uN7jHJGaww7LN85aoGG7GJ6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
